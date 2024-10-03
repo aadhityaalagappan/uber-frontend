@@ -1,10 +1,14 @@
-# untitled
+# Uber Frontend
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application of Uber Clone.
+
+main.dart - the main application is called
+home.dart - The page where destination to be dropped is chosen.
+Book.dart - Driver page where the corresponding driver will be assigned to the particular trip
 
 A few resources to get you started if this is your first Flutter project:
 
